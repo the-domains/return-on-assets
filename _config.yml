@@ -1,0 +1,28 @@
+name: Return on Assets
+favicon: null
+layout_spectrum: 0.6171275365632027
+typography_spectrum: 0.9591790726408362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.03943723440170288
+  lightness: 0.7482769910711795
+  saturation: 0.25390046276152134
+  rhythmicContrast: 0.5587268373928964
+purpose: []
